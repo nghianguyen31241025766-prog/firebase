@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809334507570",
+    "project_id": "exemple-a3af2",
+    "storage_bucket": "exemple-a3af2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809334507570:android:b029382dd899a1930a542b",
+        "android_client_info": {
+          "package_name": "vn.edu.ueh.thanhdnh.firebase_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQKR8JzmMZb4WkG7LtUelBUqsUbqnXeZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
